@@ -38,7 +38,7 @@ https://github.com/UsamaIsrarDev/pakistan-studies.git
 - Develop a sense of patriotism and civic responsibility.
 - Appreciate Pakistan’s cultural diversity and historical richness.
 
-#CSSE-306 : Calculus & Analytical Geometry-II
+# CSSE-306 : Calculus & Analytical Geometry-II
 
 ```
 https://github.com/UsamaIsrarDev/calculus-and-analytical-geometry.git
