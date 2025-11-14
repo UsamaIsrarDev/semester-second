@@ -20,7 +20,7 @@ https://github.com/UsamaIsrarDev/business-communication-skills.git
 - Communicate clearly and confidently in academic and corporate settings.
 - Apply communication strategies to achieve professional goals.
 
-## CSSE-304 : Pakistan Studies
+### CSSE-304 : Pakistan Studies
 
 ```
 https://github.com/UsamaIsrarDev/pakistan-studies.git
@@ -38,7 +38,7 @@ https://github.com/UsamaIsrarDev/pakistan-studies.git
 - Develop a sense of patriotism and civic responsibility.
 - Appreciate Pakistan’s cultural diversity and historical richness.
 
-# CSSE-306 : Calculus & Analytical Geometry-II
+### CSSE-306 : Calculus & Analytical Geometry-II
 
 ```
 https://github.com/UsamaIsrarDev/calculus-and-analytical-geometry.git
@@ -56,7 +56,7 @@ https://github.com/UsamaIsrarDev/calculus-and-analytical-geometry.git
 - Understand and visualize 2D and 3D geometric relationships.
 - Strengthen mathematical thinking and analytical skills.
 
-# CSSE-308 : Linear Algebra
+### CSSE-308 : Linear Algebra
 
 ```
 https://github.com/UsamaIsrarDev/linear-algebra.git
@@ -74,7 +74,7 @@ https://github.com/UsamaIsrarDev/linear-algebra.git
 - Understand the mathematical foundation behind modern machine learning.
 - Strengthen problem-solving and logical reasoning abilities.
 
-# CSSE-310 : Object-Oriented Concepts
+### CSSE-310 : Object-Oriented Concepts
 
 ```
 https://github.com/UsamaIsrarDev/object-oriented-concepts.git
@@ -92,7 +92,7 @@ https://github.com/UsamaIsrarDev/object-oriented-concepts.git
 - Understand the structure of modern software systems.
 - Prepare for advanced programming and software development courses.
 
-# CSSE-312 : Urdu (Humanities)
+### CSSE-314 : Urdu (Humanities)
 
 ```
 https://github.com/UsamaIsrarDev/urdu-humanities.git
